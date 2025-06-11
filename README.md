@@ -1,4 +1,7 @@
 # VERANO
 trabajo
 
-Si funciona la mrd x2
+Cristobal Gachuz Plata
+240110594
+
+si funciona esta mrd
