@@ -1,7 +1,8 @@
 # VERANO
 trabajo
+# Repositorio de Verano
 
 Cristobal Gachuz Plata
-240110594
+\n 240110594
+\n si funciona la mrd
 
-si funciona esta mrd
